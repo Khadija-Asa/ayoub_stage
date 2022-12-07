@@ -179,3 +179,24 @@ text-transform: uppercase;
 font-size: 3rem;
 font-family: 'cinzel';
 }
+
+.paragraphe_two p{
+color: black;
+font-size: 1.2rem;
+width: 650px;
+padding: 40px;
+float: left;
+margin-top: 200px;
+margin-left: 200px;
+line-height: 2.5rem;
+text-align: justify;
+background-color: #FBF7F5;
+
+}
+
+.paragraphe_two_img img {
+  float: right;
+  object-fit: cover;
+  width: 500px;
+}
+  
